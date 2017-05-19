@@ -1,0 +1,9 @@
+{
+  "extends": "rallycoding",
+  "plugins": [
+    "import"
+  ],
+  "rules": {
+    "semi": "off"
+  }
+}
